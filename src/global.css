@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Truculenta:wght@100;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Average+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Signika+Negative:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Otomanopee+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Intro+Inline:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Philosopher:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-mulish: Mulish;
+  --font-quicksand: Quicksand;
+  --font-philosopher: Philosopher;
+  --font-signika-negative: "Signika Negative";
+  --font-intro-inline: "Intro Inline";
+  --font-otomanopee-one: "Otomanopee One";
+  --font-average-sans: "Average Sans";
+  --font-truculenta: Truculenta;
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-mini: 15px;
+  --font-size-4xs: 9px;
+  --font-size-xs: 12px;
+  --font-size-26xl: 45px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-whitesmoke: #f3f5f7;
+  --color-black: #000;
+  --color-mediumslateblue: #0066ff;
+  --color-deeppink: #ff2480;
+  --color-white: #fff;
+  --color-crimson: #ff003d;
+
+  /* Border radiuses */
+  --br-9xl: 28px;
+  --br-4xs: 9px;
+  --br-mini: 15px;
+  --br-xs: 12px;
+}
